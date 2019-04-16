@@ -9,8 +9,12 @@
          <key>XPATH</key>
          <value>//frame</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//frame[@src = '../byt/default.html']</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>

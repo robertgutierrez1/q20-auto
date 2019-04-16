@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>frame (1)</name>
+   <name>frame (3)</name>
    <tag></tag>
-   <elementGuidId>a59113dc-c8e4-46a9-a8ff-e20517d0209c</elementGuidId>
-   <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//frame[@src = '../byt/default.html']</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='/html[1]/frameset[1]/frame[1]'])[1]/preceding::frame[1]</value>
-      </entry>
-   </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <elementGuidId>3bba3a23-521f-48de-83cd-85b2ae115cde</elementGuidId>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
